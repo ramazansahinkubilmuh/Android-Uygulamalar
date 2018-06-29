@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Haberlerin Uygulaması</string>
+    <string name="girissayfasi">Haberlerin Uygulaması</string>
+    <string name="haberkaynaklari">Haber Siteleri</string>
+    <string name="haberbasliklari">Haber Başlıkları</string>
+    <string name="buton">Kaydet</string>
+    <string name="name">Site Ismi</string>
+    <string name="link">Site Linki</string>
+    <string name="giris">Haberlere Git</string>
+    <string name="kayit">Veri Kaydetme</string>
+    <string name="iptal">Iptal</string>
+    <string name="verisil">Kaydı Sil</string>
+</resources>
